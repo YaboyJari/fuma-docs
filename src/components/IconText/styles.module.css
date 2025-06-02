@@ -1,0 +1,15 @@
+.container {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+}
+
+.text {
+  margin-left: 24px;
+  font-size: 16px;
+}
+
+.icon {
+  position: absolute;
+  font-size: 24px;
+}

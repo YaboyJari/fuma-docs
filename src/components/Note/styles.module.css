@@ -1,0 +1,33 @@
+.noteContainer {
+  padding: 1em;
+  border-radius: 4px;
+  margin: 1em 0;
+  color: #000c21;
+}
+
+.note {
+  background-color: #e7f5ff;
+  border-left: 4px solid #064296;
+}
+
+.caution {
+  background-color: #fff3bf;
+  border-left: 4px solid #f59f00;
+}
+
+.warning {
+  background-color: #ffe3e3;
+  border-left: 4px solid #f03e3e;
+}
+
+.success {
+  background-color: #d3f9d8;
+  border-left: 4px solid #37b24d;
+}
+
+.noteText {
+  p {
+    display: inline;
+    margin: 0;
+  }
+}

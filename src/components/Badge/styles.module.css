@@ -1,0 +1,15 @@
+.container {
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+  background-color: #064296;
+  color: #f8fbff;
+  width: fit-content;
+  border-radius: 20px;
+  padding: 0 10px;
+
+  .icon {
+    font-size: 14px;
+    margin-right: 2px;
+  }
+}

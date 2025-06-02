@@ -1,0 +1,23 @@
+.container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.circle {
+  display: inline-block;
+  line-height: 0px;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: 700;
+  background-color: #e64c4c;
+  color: white;
+}
+
+.circle span {
+  display: inline-block;
+  padding-top: 50%;
+  padding-bottom: 50%;
+  margin-left: 4px;
+  margin-right: 4px;
+}

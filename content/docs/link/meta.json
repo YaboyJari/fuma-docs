@@ -1,0 +1,6 @@
+{
+  "title": "Link",
+  "description": "Machine data metric gatherer.",
+  "pages": ["index", "---New block---", "test"],
+  "root": true
+}
